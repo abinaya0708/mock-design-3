@@ -1,0 +1,29 @@
+@media(min-width:320px){
+    .card{
+        width:95%;
+    }
+    .card2{
+
+    width:95%;
+    }
+}
+
+@media(min-width:720px){
+    .card{
+        width:50%;
+    }
+    .card2{
+
+        width:50%;
+        }
+}
+
+@media(min-width:960px){
+    .card{
+        width: 35%;
+    }
+    .card2{
+
+        width:30%;
+        }
+}

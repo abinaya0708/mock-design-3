@@ -1,0 +1,98 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+.container{
+    width:80%;
+    margin: auto;
+}
+.card{
+    /* width:35%; */
+    margin: auto;
+
+    border:10px solid papayawhip;
+    
+    
+}
+.card-top{
+    text-align: center;
+    background-color: rgb(165, 36, 165);
+
+    padding:30px;
+    color:white;
+    line-height: 1.5;
+}
+.icon i{
+    font-size: 35px;
+    color:white;
+}
+.card-btm{
+    padding:20px;
+    border-bottom: 15px solid papayawhip;
+}
+.card-btm h2{
+    padding-bottom: 5px;
+}
+.card-btm p{
+    padding-bottom:20px;
+
+}
+
+
+.card{
+    background-color: white;
+}
+.card2{
+
+        /* width:30%; */
+        
+    
+        border:10px solid papayawhip;
+    
+        padding: 10px;
+    
+}
+.card2 h1{
+    padding:5px 0;
+}
+.card2 p{
+    padding: 3px 0;;
+}
+.card2 span{
+    color:black;
+    font-size: 16px;
+
+    font-weight: 900;
+}
+.card2 button{
+    text-align: center;
+    background-color:#f757b4;
+
+    padding: 10px 20px;
+    border-color:#f757b4;
+
+    color:white;
+
+    border-radius:5px;
+}
+.btn{
+    padding-top:20px;
+}
+
+
+.card {
+   
+    
+    position:absolute;
+    top:0;
+    left:0;
+    
+    
+}
+.card:hover{
+    opacity: 0;
+}
+ 
+
+
